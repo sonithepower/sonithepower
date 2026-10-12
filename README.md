@@ -12,11 +12,11 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate **Software Developer and Tech Entrepreneur** based in **Jaipur, Rajasthan, India**[cite: 8]. As the Founder and Director of **Soni The Power Technologies Private Limited**, I bridge the gap between creative concepts and robust, production-ready software systems[cite: 8].
+I am a passionate **Software Developer and Tech Entrepreneur** based in **Jaipur, Rajasthan, India**. As the Founder and Director of **Soni The Power Technologies Private Limited**, I bridge the gap between creative concepts and robust, production-ready software systems.
 
-- 🔭 **Core Focus:** Enterprise Web Applications, API Development, and Custom IT Infrastructure Solutions[cite: 8].
-- 💡 **Leadership & Vision:** Driving technical architecture, team operations, and innovative software products for business automation[cite: 8].
-- ⚙️ **Tech Mindset:** Passionate about clean code, scalable architecture, secure networks, and reliable system performance[cite: 8].
+- 🔭 **Core Focus:** Enterprise Web Applications, API Development, and Custom IT Infrastructure Solutions.
+- 💡 **Leadership & Vision:** Driving technical architecture, team operations, and innovative software products for business automation.
+- ⚙️ **Tech Mindset:** Passionate about clean code, scalable architecture, secure networks, and reliable system performance.
 
 ---
 
@@ -52,8 +52,8 @@ I am a passionate **Software Developer and Tech Entrepreneur** based in **Jaipur
 ### **Soni The Power Technologies Private Limited**
 *Delivering High-Quality Software Solutions, Digital Products, and Managed IT Services.*
 
-📍 **Location:** Jaipur, Rajasthan, India[cite: 8]  
-🌐 **Website:** [sonithepower.com](https://sonithepower.com)[cite: 8]
+📍 **Location:** Jaipur, Rajasthan, India 
+🌐 **Website:** [sonithepower.com](https://sonithepower.com)
 
 </div>
 
@@ -72,6 +72,6 @@ I am a passionate **Software Developer and Tech Entrepreneur** based in **Jaipur
 
 <div align="center">
 
-*Designed & Maintained with ❤️ by Nathu Lal Soni*
+*Designed & Maintained with ❤️ by Nathu Lal Soni (@sonithepower)*
 
 </div>
